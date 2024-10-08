@@ -13,10 +13,10 @@ Skills used in this project
 - Shared insights with client 
 
 Insights of the Project
-# Maharashtra, Karnatak and Utter Pradesh are the top 3 states (35%)
-# Adult age group (30-50) are the main contributer 
-# Amazom, Myntra and Flipkart are the main channel to contribute 
-# Women are more likely to buy compared to Men
+ Maharashtra, Karnatak and Utter Pradesh are the top 3 states (35%)
+ Adult age group (30-50) are the main contributer 
+ Amazom, Myntra and Flipkart are the main channel to contribute 
+ Women are more likely to buy compared to Men
 
 Final Conclusion to improve Vrinda Store sales 
-# Target women of age group (30-50) living in Maharashtra, Karnaataka and Utter Pradesh by showing them ads/ coupen and offers available on Amazon, Flipkart and Myntra. 
+ Target women of age group (30-50) living in Maharashtra, Karnaataka and Utter Pradesh by showing them ads/ coupen and offers available on Amazon, Flipkart and Myntra. 
